@@ -1,0 +1,55 @@
+{
+  "title": "Crypt of the Necrodancer",
+
+  "groups": {
+    "Hazards": {
+      "size": { "width": 50, "height": 50 },
+      "categories": {
+        "Monsters": [
+          "Green Slime", "Blue Slime", "Orange Slime", "Blue Bat", "Red Bat", "Skeleton", "Yellow Skeleton", "Black Skeleton", "Ghost", "Chest Mimic", "Locked Chest Mimic", "Wraith", "Zombie",
+          "Ice Cauldron Mimic", "Coal Cauldron Mimic", "Ghast", "Goblin", "Grey Goblin", "Hellhound", "Ice Slime", "Fire Slime", "Ice Beetle", "Fire Beetle", "Ice Elemental", "Fire Elemental", "Shove Monster", "Skeleton Knight", "Yellow Skeleton Knight", "Black Skeleton Knight", "Yeti",
+          "Clone", "Golem", "Dark Golem", "Fake Wall", "Armored Skeleton", "Yellow Armored Skeleton", "Black Armored Skeleton", "Mole", "Mushroom", "Purple Mushroom", "Tar Monster", "Wight", "Wind Mage", "Yellow Wind Mage", "Black Wind Mage", "Armadillo", "Yellow Armadillo",
+          "Shopkeeper"
+        ],
+
+        "Traps": [
+          "Spike Trap",
+          "Hot Coals"
+        ],
+
+        "Mini-bosses": [
+          "Yellow Direbat",
+          "Minotaur",
+          "Green Dragon",
+          "Grey Direbat",
+          "Dark Minotaur",
+          "Red Dragon",
+          "Blue Dragon",
+          "Blue Banshee",
+          "Dark Nightmare",
+          "Green Banshee",
+          "Blood Nightmare"
+        ],
+
+        "Bosses": [
+          "King Conga",
+          "Death Metal",
+          "Deep Blue",
+          "Octoboss"
+        ],
+
+        "Success": [ "Victory" ]
+      }
+    },
+
+    "Zones": {
+      "size": { "width": 175, "height": 100 },
+      "all": [
+        "Zone 1",
+        "Zone 2",
+        "Zone 3",
+        "Zone 4"
+      ]
+    }
+  }
+}
