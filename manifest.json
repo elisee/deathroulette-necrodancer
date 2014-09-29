@@ -1,6 +1,6 @@
 {
   "title": "Crypt of the Necrodancer",
-
+  "hostBetId": "Hazards_Success_Victory",
   "groups": {
     "Hazards": {
       "bets": 5,
