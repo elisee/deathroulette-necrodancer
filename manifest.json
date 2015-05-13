@@ -7,10 +7,10 @@
       "size": { "width": 50, "height": 50 },
       "categories": {
         "Monsters": [
-          "Green Slime", "Blue Slime", "Orange Slime", "Green Bat", "Blue Bat", "Red Bat", "Skeleton", "Yellow Skeleton", "Black Skeleton", "Ghost", "Chest Mimic", "Locked Chest Mimic", "Wraith", "Zombie",
+          "Green Slime", "Blue Slime", "Orange Slime", "Green Bat", "Blue Bat", "Red Bat", "Black Bat", "Skeleton", "Yellow Skeleton", "Black Skeleton", "Ghost", "Chest Mimic", "Locked Chest Mimic", "White Chest Mimic", "Wraith", "Zombie",
           "Ice Cauldron Mimic", "Coal Cauldron Mimic", "Ghast", "Goblin", "Grey Goblin", "Hellhound", "Ice Slime", "Fire Slime", "Ice Beetle", "Fire Beetle", "Ice Elemental", "Fire Elemental", "Shove Monster", "Skeleton Knight", "Yellow Skeleton Knight", "Black Skeleton Knight", "Yeti",
           "Clone", "Golem", "Dark Golem", "Fake Wall", "Armored Skeleton", "Yellow Armored Skeleton", "Black Armored Skeleton", "Mole", "Mushroom", "Purple Mushroom", "Exploding Mushroom", "Tar Monster", "Wight", "Wind Mage", "Yellow Wind Mage", "Black Wind Mage", "Armadillo", "Yellow Armadillo",
-          "Shopkeeper"
+          "Armadillo Mandarin", "Blademaster", "Orange Blademaster", "Ghoul", "Goblin Bomber", "Goblin Sentry", "Ooze Golem", "Harpy", "Lich", "Black Lich", "Red Lich", "Mummy", "Pixie", "Grey Shove Monster", "Spider", "Warlock", "Neon Warlock", "Shopkeeper"
         ],
 
         "Traps and Accidents": [
@@ -21,7 +21,9 @@
           "Pile of Gold",
           "Shrine",
           "Blood Debt",
-          "Crown of Thorns"
+          "Crown of Thorns",
+          "Barrel",
+          "Gargoyle"
         ],
 
         "Mini-bosses": [
@@ -35,14 +37,19 @@
           "Blue Banshee",
           "Dark Nightmare",
           "Green Banshee",
-          "Blood Nightmare"
+          "Blood Nightmare",
+          "Mommy",
+          "Ogre"
         ],
 
         "Bosses": [
           "King Conga",
           "Death Metal",
           "Deep Blue",
-          "Octoboss"
+          "Octoboss",
+          "Dead Ringer",
+          "Necrodancer",
+          "Lute Boss"
         ],
 
         "Success": [ "Victory" ]
